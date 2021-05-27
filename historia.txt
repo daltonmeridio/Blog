@@ -4,4 +4,4 @@ Esta es la hisotira de Dalton
 Dalton es la verga aprendiendo git
 Aprendiendo en Tryhackme
 
-Empezamos otra vez XD con hacking
+Empezamos otra vez XD con hacking y git 
