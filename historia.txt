@@ -5,4 +5,7 @@ Dalton es la verga aprendiendo git
 Aprendiendo en Tryhackme
 
 Master 1
+
+Master 2
+
 Empezamos otra vez XD con git
