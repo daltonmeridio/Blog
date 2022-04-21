@@ -12,4 +12,4 @@ Master 1
 
 Master 2
 
-Empezamos otra vez XD con gi
+Empezamos otra vez XD con git
